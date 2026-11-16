@@ -1,5 +1,5 @@
 {
-  "version": "16.11.26",
-  "download_url": "https://github.com/itexteams/updates/releases/download/16.11.26/Main.exe",
+  "version": "18.11.26",
+  "download_url": "https://github.com/itexthcs-coder/update_thcs/releases/download/18.11.26/Main.exe",
   "changelog": "Cap nhat module de thi Toan, fix loi doc bieu do TikZ va ho tro QR Code cham thi."
 }
